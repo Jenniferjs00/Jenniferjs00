@@ -3,7 +3,7 @@
 
 
 - 🌱 Formada em Analise e Desenvolvimento
-- 😄 Estudando desenvolvimento Web
+- 😄 Atuando como Desenvolvedora Web
 - 📫 Contato: jenniferr.brito@outlook.com
 <br></br>
 
