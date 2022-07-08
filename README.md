@@ -1,6 +1,3 @@
-
-<img href="" src="banner-ola-git.svg">
-
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Sobre mim</h2>
 
 
